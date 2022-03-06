@@ -1,4 +1,4 @@
-# Adafruit-MicroPython-INA260
+# MicroPython-INA260
 
 MicroPython driver (in progress) for the TI INA260 current and power sensor. This library is heavily based on the original [Adafruit-CircuitPython-INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260) library, but changed and stripped down to work with MicroPython. This library should now be usable with boards like the [Pycom FiPy](https://pycom.io/product/fipy/).
 
